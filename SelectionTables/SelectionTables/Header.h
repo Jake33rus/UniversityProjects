@@ -1,0 +1,9 @@
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <stdio.h>
+#include <iostream>
+#include <string>
+#include "tinyxml2.h"
+#include <locale>
+#include <list>

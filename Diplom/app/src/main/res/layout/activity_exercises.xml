@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.ExercisesCategoryActivity.Exercises">
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2">
+            <ImageView
+                android:id="@+id/im_sheya"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="1"
+                android:contentDescription="@string/Sheya"
+                android:src="@drawable/ic_sheya" />
+
+            <TextView
+                android:id="@+id/tv_sheya"
+                android:layout_width="312dp"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_gravity="center_vertical"
+                android:layout_row="1"
+                android:layout_marginLeft="20dp"
+                android:text="@string/Sheya"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_plechi"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="2"
+                android:contentDescription="@string/Plechi"
+                android:src="@drawable/ic_plechi" />
+
+            <TextView
+                android:id="@+id/tv_plechi"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="2"
+                android:text="@string/Plechi"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_spina"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="3"
+                android:contentDescription="@string/Spina"
+                android:src="@drawable/ic_rear" />
+
+            <TextView
+                android:id="@+id/tv_spina"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="3"
+                android:text="@string/Spina"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_grud"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="4"
+                android:contentDescription="@string/Grud"
+                android:src="@drawable/ic_breast" />
+
+            <TextView
+                android:id="@+id/tv_grud"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="4"
+                android:text="@string/Grud"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_triceps"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="5"
+                android:contentDescription="@string/Triceps"
+                android:src="@drawable/ic_triceps" />
+
+            <TextView
+                android:id="@+id/tv_triceps"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="5"
+                android:text="@string/Triceps"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_biceps"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="6"
+                android:contentDescription="@string/Biceps"
+                android:src="@drawable/ic_biceps" />
+
+            <TextView
+                android:id="@+id/tv_biceps"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="6"
+                android:text="@string/Biceps"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_predpl"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="7"
+                android:contentDescription="@string/Predplech"
+                android:src="@drawable/ic_predpl" />
+
+            <TextView
+                android:id="@+id/tv_predpl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="7"
+                android:text="@string/Predplech"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_press"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="8"
+                android:contentDescription="@string/Press"
+                android:src="@drawable/ic_press" />
+
+            <TextView
+                android:id="@+id/tv_press"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="8"
+                android:text="@string/Press"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_bedro"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="9"
+                android:contentDescription="@string/Bedro"
+                android:src="@drawable/ic_bedro" />
+
+            <TextView
+                android:id="@+id/tv_bedro"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="9"
+                android:text="@string/Bedro"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+            <ImageView
+                android:id="@+id/im_golen"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_column="0"
+                android:layout_row="10"
+                android:contentDescription="@string/Golen"
+                android:src="@drawable/ic_golen" />
+
+            <TextView
+                android:id="@+id/tv_golen"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_column="1"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center_vertical"
+                android:layout_row="10"
+                android:text="@string/Golen"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/colorNameSalon" />
+        </GridLayout>
+    </ScrollView>

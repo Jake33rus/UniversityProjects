@@ -1,0 +1,10 @@
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\bin\Debug\BiblioFond.exe.config
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\bin\Debug\BiblioFond.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\bin\Debug\BiblioFond.pdb
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.Form1.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.Properties.Resources.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.csproj.GenerateResource.Cache
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.pdb
+c:\users\htcvive\documents\visual studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.csprojResolveAssemblyReference.cache
+C:\Users\htcvive\Documents\Visual Studio 2017\Projects\BiblioFond\BiblioFond\obj\Debug\BiblioFond.csproj.CoreCompileInputs.cache

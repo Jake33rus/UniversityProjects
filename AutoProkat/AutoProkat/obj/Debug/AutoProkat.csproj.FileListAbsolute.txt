@@ -1,0 +1,9 @@
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\bin\Debug\AutoProkat.exe.config
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\bin\Debug\AutoProkat.exe
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\bin\Debug\AutoProkat.pdb
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\obj\Debug\AutoProkat.csprojResolveAssemblyReference.cache
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\obj\Debug\AutoProkat.Form1.resources
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\obj\Debug\AutoProkat.Properties.Resources.resources
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\obj\Debug\AutoProkat.csproj.GenerateResource.Cache
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\obj\Debug\AutoProkat.exe
+D:\на новый комп\Курсавики третьему курсу по шишке\AutoProkat\AutoProkat\obj\Debug\AutoProkat.pdb

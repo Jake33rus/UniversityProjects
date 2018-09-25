@@ -1,0 +1,106 @@
+body{background: #efeffe url(images/n016.gif); margin:0; padding:0; font: 16px/24px Arial, Tahoma, sans-serif;}
+a{text-decoration: none;}
+a:hover{transition: all 0.5s;}
+
+/*Структура сайта*/
+div.mid{width: 1000px; margin: 0 auto;}
+div.header{background: 
+	radial-gradient(rgba(255,255,255,0.2), #101417 250px, transparent 250px) 15% -100px no-repeat;
+	background-color: #101417; background-size: 500px 500px;}
+
+/*Шапка сайта*/
+div.topmenu{margin-top: 15px; float: right; height:70px; line-height:70px;}
+div.topmenu a{margin: 0 0 0 15px; color: #1683a3;}
+div.topmenu a:hover{color: #fff;}
+div.afisha{padding: 20px 50px 10px 50px; background: #f2f2f2 url(images/line.png) top repeat-x;}
+div.afisha h3{font-size: 24px; font-weight: normal; text-align: center; color: #01617d;}
+div.afisha img{vertical-align: middle; transform: scale(0.7);}
+
+
+/*Главное меню*/
+div.menu{background: #1683a3; border: 1px solid #016c8b; border-left: none; border-right: none;}
+div.menu ul{margin: 0; padding: 0; list-style: none; text-align: center;}
+div.menu ul li{display: inline-block; margin: 5px 30px;}
+div.menu ul li a{color: #fff; text-transform: uppercase; text-shadow: 1px 1px 3px #0b4455}
+div.menu ul li a:hover{color: #a3E1f3;}
+
+/*Контент сайта*/
+div.fon {background: #fff; border: 1px solid #ccc; border-top: none; padding: 40px;}
+div.fon hr.line {border: none; border-bottom: 1px dashed #ccc; height: 0; margin: 40px 0}
+div.block {width: 440px; float: left;}
+div.block:nth-of-type(even) {float: right;}
+div.block a p{color: #272727;}
+div.anons{background: #f5f5f5; border: 1px solid #ccc; border-radius: 3px; padding: 20px;}
+div.anons:hover {background:  #e0eff4; border: 1px solid #bfd5dd; transition: all 1s;}
+div.anons img{box-shadow: 1px 1px 5px #777; transition: transform 0.7s;}
+div.anons:hover img {transform:scale(1.10) rotate(1.5deg); transition: transform 2s;}
+div.block:nth-of-type(even) div.anons:hover img {transform:scale(1.10) rotate(-1.5deg);}
+div.anons h3{font-size: 20px; font-weight: normal; margin: 20px 0 10px; padding: 0; col-or: #01617d; line-height: 20px;}
+div.anons p{text-shadow: 1px 1px 0 #fff; text-align: center;}
+
+
+/*Подвал*/
+div.footer span{margin: 0 20px }
+div.footer{margin: 10px 0; font-size: 15px; text-align: center; color: #fff;}
+
+div.clear{clear: both;}
+
+/*Обо мне*/
+div.fon2 {width: 1000px; background: #fff; border: 1px solid #ccc; margin: 0 auto;}
+div.info h2, h3 {font-size: 20px; font-weight: normal; margin: 20px 0 10px; padding: 0; color: #01617d; line-height: 20px;text-align: center;}
+div.info img {vertical-align: middle; transform: scale(0.5);}
+div.info p {color:#272727; text-shadow: 1px 1px 0 #fff; margin: 20px 20px 50px 50px}
+.button {
+    background-color: #1683a3;
+    border: 1px solid aliceblue;
+    color: aliceblue;
+    font-size: 18px;
+}
+.button:hover{
+    border: 1px solid #a3E1f3;
+    color: #a3E1f3;
+}
+.parrentButton {
+    text-align: right; 
+    margin-top: -25px;
+}
+
+
+/*Фото*/
+div.fon3 {width: 1000px; background: #fff; border: 1px solid #ccc; margin: 0 auto;}
+div.fon3 img  {max-width: 480px ; height: 320px;  margin:20px 0px 20px 4px; border-radius: 5px; border: 2.5px solid #1683a3; }
+div.fon3 img:hover {transform: scale(1.5); transition: transform 1s;}
+div.block3 {background: #f5f5f5; border: 2px solid #ccc; border-radius: 10px; margin: 3px;}
+div.block3 {width: 490px; float: left;}
+div.block3:nth-of-type(even) {float: right;}
+div.more p{text-align: center;}
+div.more a{font-size: 20px; color: #fff; font-weight: bold;
+	background: #1683a3; border: 1px solid #000; padding: 5px 323px; 
+	border-radius: 3px; box-shadow: 2px 2px 7px -1px #777; text-shadow: 0px 0px 3px #752300;}
+div.more img {max-width: 20px; height: auto; vertical-align: middle; }
+div.more a:hover{color:#000;}
+
+/*Контакты*/
+div.fon4 {width: 1000px; height: auto; background: #fff; border: 1px solid #ccc; margin: 0 auto;}
+div.block2 {width: 900px}
+div.anons2 {background: #f5f5f5; border: 1px solid #ccc; border-radius:3px; padding: 30px; margin: 20px;}
+div.anons2 p, i, br {text-align: center;}
+
+
+/*Адаптивный дизайн*/
+@media screen and (max-width: 999px){
+	div.mid{width: 95%;}
+    div.afisha h3{font-size: 22px;}
+	div.block {width: 48%;}
+	div.anons img{width: 100%;}
+	div.anons h3{font-size: 18px;}
+}
+@media screen and (max-width: 450px)
+{
+	div.header{text-align: center; background-position: center -100px;}
+	div.topmenu, div.block, div.block:nth-of-type(even) {float: none;}
+	div.block {width: auto; margin-bottom: 40px;}
+	div.block:nth-last-of-type(2){width: auto; margin-bottom: 0;}
+	div.footer span{margin: 10px 0; display: block;}
+}
+

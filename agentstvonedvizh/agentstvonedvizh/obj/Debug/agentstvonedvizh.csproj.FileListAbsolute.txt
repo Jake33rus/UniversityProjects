@@ -1,0 +1,9 @@
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\bin\Debug\agentstvonedvizh.exe.config
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\bin\Debug\agentstvonedvizh.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\bin\Debug\agentstvonedvizh.pdb
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\obj\Debug\agentstvonedvizh.csprojResolveAssemblyReference.cache
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\obj\Debug\agentstvonedvizh.Form1.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\obj\Debug\agentstvonedvizh.Properties.Resources.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\obj\Debug\agentstvonedvizh.csproj.GenerateResource.Cache
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\obj\Debug\agentstvonedvizh.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\agentstvonedvizh\agentstvonedvizh\obj\Debug\agentstvonedvizh.pdb

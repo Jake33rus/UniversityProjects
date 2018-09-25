@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.TopActivity">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2">
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="150dp"
+            android:layout_column="0"
+            android:layout_row="0"
+            android:contentDescription="@string/logo"
+            android:src="@mipmap/logo1"
+            android:background="@color/colorBackground"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorBackground"
+            android:layout_column="1"
+            android:layout_row="0"
+            android:layout_gravity="fill_vertical"
+            android:gravity="center_vertical"
+            android:text="@string/name_apk"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/colorNameSalon" />
+        <ImageView
+            android:id="@+id/im_exe"
+            android:layout_width="57dp"
+            android:layout_height="78dp"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:contentDescription="@string/Exercises"
+            android:src="@drawable/exercises1" />
+
+        <TextView
+            android:id="@+id/tv_exe"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_column="1"
+            android:layout_gravity="center_vertical"
+            android:layout_row="1"
+            android:text="@string/Exercises"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/colorNameSalon" />
+        <ImageView
+            android:id="@+id/im_ency"
+            android:layout_width="57dp"
+            android:layout_height="77dp"
+            android:layout_column="0"
+            android:layout_row="2"
+            android:contentDescription="@string/Encyclopedia"
+            android:src="@drawable/enciclopedia" />
+
+        <TextView
+            android:id="@+id/tv_ency"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_column="1"
+            android:layout_gravity="center_vertical"
+            android:layout_row="2"
+            android:text="@string/Encyclopedia"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/colorNameSalon" />
+        <ImageView
+        android:id="@+id/im_cal"
+        android:layout_width="56dp"
+        android:layout_height="82dp"
+        android:layout_column="0"
+        android:layout_row="3"
+        android:contentDescription="@string/Calculaters"
+        android:src="@drawable/calculater" />
+
+        <TextView
+            android:id="@+id/tv_cal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_column="1"
+            android:layout_gravity="center_vertical"
+            android:layout_row="3"
+            android:text="@string/Calculaters"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/colorNameSalon" />
+        <ImageView
+            android:id="@+id/im_author"
+            android:layout_width="57dp"
+            android:layout_height="74dp"
+            android:layout_column="0"
+            android:layout_row="4"
+            android:contentDescription="@string/Author"
+            android:src="@drawable/author" />
+
+        <TextView
+            android:id="@+id/tv_author"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_column="1"
+            android:layout_gravity="center_vertical"
+            android:layout_row="4"
+            android:text="@string/Author"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/colorNameSalon" />
+    </GridLayout>
+</ScrollView>

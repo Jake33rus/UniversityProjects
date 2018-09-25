@@ -1,0 +1,9 @@
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\bin\Debug\KursachSerg.exe.config
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\bin\Debug\KursachSerg.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\bin\Debug\KursachSerg.pdb
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\obj\Debug\KursachSerg.csprojResolveAssemblyReference.cache
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\obj\Debug\KursachSerg.Form1.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\obj\Debug\KursachSerg.Properties.Resources.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\obj\Debug\KursachSerg.csproj.GenerateResource.Cache
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\obj\Debug\KursachSerg.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\KursachSerg\KursachSerg\obj\Debug\KursachSerg.pdb

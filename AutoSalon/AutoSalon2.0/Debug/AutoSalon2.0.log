@@ -1,0 +1,44 @@
+﻿  AutosalonForm.cpp
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\car.cpp(86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\controller.cpp(34): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "System::String ^"
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\controller.cpp(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Car.cpp
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\car.cpp(86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Complectation.cpp
+  Controller.cpp
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\car.cpp(86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\controller.cpp(34): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "System::String ^"
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\controller.cpp(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Parser.cpp
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\car.cpp(86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  tinyxml2.cpp
+  Создание кода...
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2322): warning C4793: tinyxml2::XMLDocument::SetError: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2339): warning C4793: tinyxml2::XMLDocument::SetError: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2341): warning C4793: tinyxml2::XMLDocument::SetError: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2431): warning C4793: tinyxml2::XMLPrinter::Print: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2433): warning C4793: tinyxml2::XMLPrinter::Print: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2441): warning C4793: tinyxml2::XMLPrinter::Print: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2443): warning C4793: tinyxml2::XMLPrinter::Print: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(2448): warning C4793: tinyxml2::XMLPrinter::Print: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(46): warning C4793: `anonymous namespace'::TIXML_SNPRINTF: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(48): warning C4793: `anonymous namespace'::TIXML_SNPRINTF: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\tinyxml2.cpp(50): warning C4793: `anonymous namespace'::TIXML_SNPRINTF: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\parser.cpp(89): warning C4700: использована неинициализированная локальная переменная "i"
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\controller.cpp(90): warning C4715: Controller::oneCarSrch: значение возвращается не при всех путях выполнения
+c:\users\htcvive\source\repos\autosalon2.0\autosalon2.0\controller.cpp(29): warning C4715: Controller::Load: значение возвращается не при всех путях выполнения
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AutoSalon2.0.vcxproj -> C:\Users\htcvive\Source\Repos\AutoSalon2.0\Debug\AutoSalon2.0.exe

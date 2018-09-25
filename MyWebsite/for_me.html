@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Информация обо мне</title>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/x-icon" href="images/icon-i.png">
+    <link rel="stylesheet" href="style.css" media="all">
+
+    <!--
+скрипт для увеличения шрифта: из текущего документа для элемента страницы с id "ChangeFont" мы передаём новый стиль шрифта (его размер, который больше оригиналь-ного на одну единицу) 
+скрипт для уменьшения текста возвращает текст в элементе с id "ChangeFont" в оригинальное состояние 16px
+-->
+
+    <script type="text/javascript">
+        function FontSizePlus() {
+            document.getElementById("ChangeFont").style.fontSize = "larger";
+        }
+        function FontSizeMinus() {
+            document.getElementById("ChangeFont").style.fontSize = "16px";
+        }
+    </script>
+</head>
+	<style>
+			body{background: url(no-repeat;
+				-moz-background-size: 100%;
+				-webkit-background-size: 100%;
+				-o-background-size: 100%;
+				background-size: 100%;
+			margin:0; padding:0; font: 16px/24px Arial, Tahoma, sans-serif;
+			}
+	</style>
+<body style="background-attachment:fixed" topmargin="0">
+    <div class="header">
+        <div class="mid">
+            <header>
+                <div class="topmenu">
+                    <aside>
+                        <a href="index.html">Главная</a>
+                        <a href="for_me.html">Обо мне</a>
+                        <a href="photo.html">Фото</a>
+                        <a href="contact.html">Контакты</a>
+                    </aside>
+                </div>
+                <img src="images/logo3.png" alt="Логотип сайта" title="Логотип сайта">
+                <div class="afisha">
+                    <h3>На этой странице, вы можете познакомиться с информацией обо мне</h3>
+                    <div class="clear"></div>
+                </div>
+            </header>
+        </div>
+    </div>
+    <div class="menu">
+        <div class="mid">
+            <nav>
+                <ul>
+                    <li><a href="http://jake33rus.mypage.ru/">Мой Блог</a></li>
+                </ul>
+                <!--
+кнопки, по нажатию на счелчек мыши запускают ту или иную функцию js
+-->
+                <div class="parrentButton">
+                    <input class="button" type="button" onclick="FontSizeMinus()" value="а" />
+                    <input class="button" type="button" onclick="FontSizePlus()" value="A" />
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <div class="info">
+
+        <div class="fon2" id="ChangeFont">
+            <h2>Меня зовут - Уланов Евгений Юрьевич!</h2>
+            <h3>Родился я - 18 августа 1997г.</h3>
+            <p>В настоящее время проживаю в городе Владимире, учусь в Колледже Инновационных технологий и предпринимательства при Владимирском Государственном Университете.Закончил третий курс по специальности программист в компьютерных си-стемах.</p>
+            <p>Помимо учебы, хожу в тренажерный зал и на персональные занятия по игре на гитаре.</p>
+            <p>Раньше учился играть на скрипке и на саксафоне, но из-за обстоятельств доучиться не получилось. Из-за переездов, я часто менял место учебы: 1-2 класс я учился в 16 школе города Владимир, 3-4 в школе 1083 г.Москва, после поступил в Московский Ка-зачий Кадетский корпус отучился там полтора года, и пришлось вернуться во Владимир. 6 класс я учился в 24 школе потом перевелся в МОУСОШ № 25 города Владимира, в ней я отучился 7-9 класс. Я не жалею, об частой смене учебных мест, это позволило мне завести много знакомств, научило адаптироваться в непростых жизненных ситуациях и приобре-сти лидерские качества.</p>
+            <p>Раньше я занимался плаванием - 8 лет, 1,5 года баскетболом и 1,5 года боксом.</p>
+            <p>Свободное время стараюсь проводить в приятной компании своей де-вушки или друзей. Часто мы ходим в антикафе, кальянные, либо кинотеатры. Кино и му-зыка это больная для меня тема, я очень сильно люблю смотреть фильмы, к любимым жан-рам отнесу - ужасы, комедии, триллеры, боевики и мультфильмы. По-поводу музыки могу сказать только одно - с наушниками я не расстаюсь! :) Слушаю рок и рэп, к самым люби-мым группам и инсполнителям отнесу - TDG, Skillet, Nickelback, LP, 30STM, LUCAVEROS, Jah Khalib, Мот, L'one, ST, OXYYYMIRON. Последнее время прививаю се-бе любовь к чтению, любимый жанр фэнтези, хоррор и детектив, а писатели, пожалуй эти - Эдгар По, Стивен Кинг и Джек Керуак. Мечтаю о крепкой семье, успешной карьере и chevrolet camaro)</p>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="mid">
+            <span>Дизайн и разработка: Евегний Уланов &copy;</span> ||<span> ВлГУ </span>||<span> г. Владимир 2016г. </span>
+        </div>
+    </div>
+</body>
+</html>

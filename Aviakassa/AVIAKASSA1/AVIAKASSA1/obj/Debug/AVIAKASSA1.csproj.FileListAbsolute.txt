@@ -1,0 +1,9 @@
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\bin\Debug\AVIAKASSA1.exe.config
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\bin\Debug\AVIAKASSA1.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\bin\Debug\AVIAKASSA1.pdb
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\obj\Debug\AVIAKASSA1.csprojResolveAssemblyReference.cache
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\obj\Debug\AVIAKASSA1.Properties.Resources.resources
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\obj\Debug\AVIAKASSA1.csproj.GenerateResource.Cache
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\obj\Debug\AVIAKASSA1.exe
+c:\users\htcvive\documents\visual studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\obj\Debug\AVIAKASSA1.pdb
+C:\Users\htcvive\Documents\Visual Studio 2017\Projects\AVIAKASSA1\AVIAKASSA1\obj\Debug\AVIAKASSA1.Aviakassa.resources

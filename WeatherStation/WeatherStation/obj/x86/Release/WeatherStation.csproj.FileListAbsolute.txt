@@ -1,0 +1,4 @@
+c:\users\stu-itu117\documents\visual studio 2010\Projects\WeatherStation\WeatherStation\bin\Release\WeatherStation.exe
+c:\users\stu-itu117\documents\visual studio 2010\Projects\WeatherStation\WeatherStation\bin\Release\WeatherStation.pdb
+c:\users\stu-itu117\documents\visual studio 2010\Projects\WeatherStation\WeatherStation\obj\x86\Release\WeatherStation.exe
+c:\users\stu-itu117\documents\visual studio 2010\Projects\WeatherStation\WeatherStation\obj\x86\Release\WeatherStation.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Mark>Nissan</Mark>
+  <Count>2</Count>
+  <Car>
+    <Model>Juke</Model>
+    <color>Blue</color>
+    <type>Crossover</type>
+    <complictationType>Base</complictationType>
+    <price>1200000</price>
+    <horsepower>117</horsepower>
+    <mass>1685</mass>
+    <maxspeed>170</maxspeed>
+    <secToHundred>11.5</secToHundred>
+    <status>Yes</status>
+  
+</Car>
+  <Car>
+    <Model>GTR</Model>
+    <color>Orange</color>
+    <type>Coupe</type>
+    <complictationType>Sport</complictationType>
+    <price>6975000</price>
+    <horsepower>570</horsepower>
+    <mass>2200</mass>
+    <maxspeed>315</maxspeed>
+    <secToHundred>2,8</secToHundred>
+    <status>Yes</status>
+
+  </Car>
+</Cars>

@@ -1,0 +1,11 @@
+﻿  Controller.cpp
+c:\users\htcvive\source\repos\selectiontables\selectiontables\controller.cpp(63): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "System::String ^"
+c:\users\htcvive\source\repos\selectiontables\selectiontables\controller.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  SelTForm.cpp
+c:\users\htcvive\source\repos\selectiontables\selectiontables\controller.cpp(63): warning C4477: "sprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "System::String ^"
+c:\users\htcvive\source\repos\selectiontables\selectiontables\controller.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Создание кода...
+c:\users\htcvive\source\repos\selectiontables\selectiontables\controller.cpp(72): warning C4715: Controller::SerchOne: значение возвращается не при всех путях выполнения
+  SelectionTables.vcxproj -> C:\Users\htcvive\Source\Repos\SelectionTables\Debug\SelectionTables.exe

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProFit</string>
+    <string name="logo">Логотип</string>
+    <string name="name_apk">Фитнес-тренер\n \"ProFIT\"</string>
+    <string name="Encyclopedia">Энциклопедия</string>
+    <string name="Calculaters">Калькуляторы</string>
+    <string name="Exercises">Упражнения</string>
+    <string name="Pharmacology">Фармокология</string>
+    <string name="SportNurition">Спортивное питание</string>
+    <string name="Author">Об авторе</string>
+    <string name="Sheya">   Шея</string>
+    <string name="Plechi">   Плечи</string>
+    <string name="Spina">   Спина</string>
+    <string name="Grud">   Грудь</string>
+    <string name="Triceps">   Трицепс</string>
+    <string name="Biceps">   Бицепс</string>
+    <string name="Predplech">   Предплечье</string>
+    <string name="Press">   Пресс</string>
+    <string name="Bedro">   Бедра</string>
+    <string name="Golen">   Голень</string>
+    <string name="FIO">Уланов Евгений Юрьевич</string>
+    <string name="age">19 лет</string>
+    <string name="info">
+        Обо мне: Родился 18.08.1997 в г.Владимире\n
+        Закончил школу №25, сейчас обучаюсь в КИТП при ВлГУ\n
+        Имею водительские права, играю на гитаре.</string>
+    <string name="socsety">
+        Я в соц.сетях:\n
+        VK - https://vk.com/jake33rus\n
+        Instagram - https://www.instagram.com/jake33rus\n
+        Моя почта - Jenya8@list.ru  ;        Jake33rus@yandex.ru\n
+        Мой телефон - +79040303551\n
+    </string>
+    <string name="Ves">Вес:</string>
+    <string name="Pov">Повторения:</string>
+    <string name="PM">Макс. вес в одном повторении:</string>
+    <string name="ProgPM">Прогнозируемый максимальный вес в одном повторении:</string>
+    <string name="ProgPov">Прогнозируемое количество повторений:</string>
+    <string name="ProgVes">Прогнозируемый вес:</string>
+    <string name="btnDel">Сброс</string>
+    <string name="btnScet">Подсчитать</string>
+    <string name="CalcVes">Калькулятор рабочего веса</string>
+    <string name="CalcPov">Калькулятор Повторений</string>
+    <string name="CalcPM">Калькулятор максимального веса</string>
+    <string name="Culc">Калькуляторы:</string>
+</resources>

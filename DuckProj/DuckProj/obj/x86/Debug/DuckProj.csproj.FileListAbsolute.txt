@@ -1,0 +1,4 @@
+c:\users\stu-itu117\documents\visual studio 2010\Projects\DuckProj\DuckProj\bin\Debug\DuckProj.exe
+c:\users\stu-itu117\documents\visual studio 2010\Projects\DuckProj\DuckProj\bin\Debug\DuckProj.pdb
+c:\users\stu-itu117\documents\visual studio 2010\Projects\DuckProj\DuckProj\obj\x86\Debug\DuckProj.exe
+c:\users\stu-itu117\documents\visual studio 2010\Projects\DuckProj\DuckProj\obj\x86\Debug\DuckProj.pdb

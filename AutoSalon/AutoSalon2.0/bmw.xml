@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Mark>BMW</Mark>
+  <Count>2</Count>
+  <Car>
+    <Model>3</Model>
+    <color>Black</color>
+    <type>Sedan</type>
+    <complictationType>Full</complictationType>
+    <price>2051000</price>
+    <horsepower>136</horsepower>
+    <mass>1975</mass>
+    <maxspeed>210</maxspeed>
+    <secToHundred>8.9</secToHundred>
+    <status>Yes</status>
+  
+</Car>
+  <Car>
+    <Model>6</Model>
+    <color>Black</color>
+    <type>Crossover</type>
+    <complictationType>Sport</complictationType>
+    <price>4090000</price>
+    <horsepower>340</horsepower>
+    <mass>2515</mass>
+    <maxspeed>250</maxspeed>
+    <secToHundred>5.3</secToHundred>
+    <status>Yes</status>
+  
+</Car>
+</Cars>

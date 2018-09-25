@@ -1,0 +1,17 @@
+while (beast.GetFullness() != 0 )
+	{
+		_sleep(1000);
+		beast.lowHp(2);
+		progressHealth->Value = beast.GetHP();
+		beast.lowHappy(2);
+		progressHappy->Value = beast.GetHappy();
+		beast.lowFood(2);
+		progressEat->Value = beast.GetFullness();
+
+		if (beast.GetFullness() > 50 && beast.GetHappy() > 50 && beast.GetHP() > 50)
+			PBBeast->Image = Image::FromFile("Happy.png");
+		if (beast.GetFullness() < 50 || beast.GetHappy() < 50 || beast.GetHP() < 50)
+			PBBeast->Image = Image::FromFile("Norm.png");
+		if (beast.GetFullness() < 25 || beast.GetHappy() < 25 || beast.GetHP() < 25)
+			PBBeast->Image = Image::FromFile("Sad.png");
+	}

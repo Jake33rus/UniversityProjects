@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+    <Mark>Audi</Mark>
+    <Count>2</Count>
+    <Car>
+        <Model>A4</Model>
+        <color>White</color>
+        <type>Sedan</type>
+        <complictationType>Full</complictationType>
+        <price>685000</price>
+        <horsepower>103</horsepower>
+        <mass>1500</mass>
+        <maxspeed>185</maxspeed>
+        <secToHundred>12.2</secToHundred>
+        <status>Unavailable</status>
+    </Car>
+    <Car>
+        <Model>Q5</Model>
+        <color>Black</color>
+        <type>Hatchback</type>
+        <complictationType>Base</complictationType>
+        <price>1050000</price>
+        <horsepower>135</horsepower>
+        <mass>1200</mass>
+        <maxspeed>183</maxspeed>
+        <secToHundred>10,8</secToHundred>
+        <status>Yes</status>
+    </Car>
+</Cars>

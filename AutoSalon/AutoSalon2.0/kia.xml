@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Mark>Kia</Mark>
+  <Count>3</Count>
+  <Car>
+    <Model>Rio</Model>
+    <color>White</color>
+    <type>Sedan</type>
+    <complictationType>Base</complictationType>
+    <price>685000</price>
+    <horsepower>103</horsepower>
+    <mass>1500</mass>
+    <maxspeed>185</maxspeed>
+    <secToHundred>12,2</secToHundred>
+    <status>Yes</status>
+  </Car>
+  <Car>
+    <Model>Cee'd</Model>
+    <color>Black</color>
+    <type>Hatchback</type>
+    <complictationType>Sport</complictationType>
+    <price>1050000</price>
+    <horsepower>135</horsepower>
+    <mass>1200</mass>
+    <maxspeed>183</maxspeed>
+    <secToHundred>10,8</secToHundred>
+    <status>Yes</status>
+</Car>
+  <Car>
+    <Model>Optima</Model>
+    <color>Blue</color>
+    <type>Sedan</type>
+    <complictationType>Full</complictationType>
+    <price>1620000</price>
+    <horsepower>245</horsepower>
+    <mass>2000</mass>
+    <maxspeed>205</maxspeed>
+    <secToHundred>9,6</secToHundred>
+    <status>Yes</status>
+  </Car>
+  </Cars>

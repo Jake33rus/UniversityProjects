@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jake.diplom">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo1"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.TopActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.ExercisesCategoryActivity.Spina.SpinaCategoryActivity"></activity>
+        <activity android:name=".Activity.ExercisesCategoryActivity.Spina.SpinaActivity"></activity>
+        <activity android:name=".Activity.ExercisesCategoryActivity.Exercises"></activity>
+        <activity android:name=".Activity.ExercisesCategoryActivity.Grud.GrudCategoryActivity"></activity>
+        <activity android:name=".Activity.ExercisesCategoryActivity.Grud.GrudActivity"></activity>
+        <activity android:name=".Activity.Menu.Author"></activity>
+        <activity android:name=".Activity.Menu.Calculaters.MP"></activity>
+        <activity android:name=".Activity.Menu.Calculaters.Povtor"></activity>
+        <activity android:name=".Activity.Menu.Calculaters.Ves"></activity>
+        <activity android:name=".Activity.Menu.Calculaters.Calculaters"></activity>
+    </application>
+</manifest>
