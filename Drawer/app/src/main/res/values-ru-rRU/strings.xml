@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Painter</string>
+    <string name="action_settings">Настройки</string>
+    <string name="button_erase">Стереть</string>
+    <string name="button_set_color">Задать цвет</string>
+    <string name="button_set_line_width">Задать ширину кисти</string>
+    <string name="menuitem_color">Цвет</string>
+    <string name="menuitem_save">Сохранить</string>
+    <string name="menuitem_print">Напечатать</string>
+    <string name="menuitem_line_width">Ширина кисти</string>
+    <string name="menuitem_delete">Очистить полотно</string>
+    <string name="title_color_dialog">Выбрать цвет</string>
+    <string name="title_line_width_dialog">Выбрать ширину кисти</string>
+    <string name="permission_explanation">При сохранении возникли ошибки</string>
+    <string name="message_saved">Ваш рисунок сохранен</string>
+    <string name="message_error_printing">Ошибка печати</string>
+    <string name="message_error_saving">Ошибка сохранения</string>
+    <string name="message_erase">Вы точно хотите удалить рисунок?</string>
+    <string name="label_blue">Синий</string>
+    <string name="label_green">Зеленый</string>
+    <string name="label_red">Красный</string>
+    <string name="label_alpha">Альфа</string>
+    <string name="line_imageview_descriprion">...</string>
+    <string name="menuitem_circle">Нарисовать круг</string>
+    <string name="menuitem_rectangle">Нарисовать прямоугольник</string>
+    <string name="circleMessage">Задайте координаты и размер</string>
+    <string name="circleX">X:</string>
+    <string name="circleY">Y:</string>
+    <string name="circleRadius">Радиус:</string>
+    <string name="title_draw_circle_dialog">Координаты и размер окружности</string>
+    <string name="button_set_coordinates">Задать координаты</string>
+    <string name="message_draw_rect">Задайте координаты для прямоугольника</string>
+    <string name="RightRect">Справа:</string>
+    <string name="leftRect">Слева:</string>
+    <string name="topRect">Сверху:</string>
+    <string name="bottomRect">Снизу:</string>
+    <string name="title_draw_rect">Координаты прямоугольника</string>
+</resources>
